@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to run
 
+Clone or Download the git folder
+
+`git clone git@github.com:inuwa/purple-wifi.git`
+
+Enter the folder through the terminal
+
+`cd PURPLE-WIFI`
+
+Install dependencies with npm
+
+`npm install`
+ 
+Got to your browser and 
+
+> http://localhost:3000/ 
+
+and run the app
 ## Available Scripts
 
 In the project directory, you can run:
