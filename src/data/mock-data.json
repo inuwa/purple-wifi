@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Thirty day visitor report",
+    "type": "Visitors",
+    "chartType": "bar",
+    "filterTypes": [
+      "Gender",
+      "Age range"
+    ],
+    "frequency": "monthly",
+    "active": true
+  },
+  {
+    "name": "Daily visitors report",
+    "type": "Visitors",
+    "chartType": "column",
+    "filterTypes": [],
+    "frequency": "daily",
+    "active": true
+  },
+  {
+    "name": "Thirty day gender report",
+    "type": "Gender",
+    "chartType": "pie",
+    "filterTypes": [
+      "Location",
+      "Age range"
+    ],
+    "frequency": "monthly",
+    "active": true
+  },
+  {
+    "name": "Weekly age range report",
+    "type": "Age range",
+    "chartType": "bar",
+    "filterTypes": [
+      "Device type",
+      "Operating system"
+    ],
+    "frequency": "weekly",
+    "active": false
+  }
+]
